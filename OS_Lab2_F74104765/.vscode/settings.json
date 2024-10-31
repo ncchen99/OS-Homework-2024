@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "cmath": "cpp",
+        "fcntl.h": "c",
+        "builtin.h": "c"
+    }
+}

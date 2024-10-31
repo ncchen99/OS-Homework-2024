@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "cmath": "cpp",
+        "sender.h": "c",
+        "signal.h": "c"
+    }
+}
